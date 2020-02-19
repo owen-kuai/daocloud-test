@@ -1,1 +1,1 @@
-FROM <nginx-image-name>
+FROM nginx
